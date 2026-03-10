@@ -20,9 +20,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Rohan-tech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" height="180px" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Mr-Rohan-tech&theme=tokyonight&hide_border=true&cache_seconds=0" height="180px" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Mr-Rohan-tech&theme=tokyonight&hide_border=true" height="180px" alt="Streak Stats"/>
 </p>
 
 
